@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roshan Raj Ramesh studying post graduate degree at University of Leicester 
 - 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Natural Language Processing and currently working on my Dissertation
+- 🌱 I’m currently looking for full time Data analyst role.
 - 📫 How to reach me - Email (rroshan.raj2015@gmail.com)
 
 <!---
